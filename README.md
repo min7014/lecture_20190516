@@ -23,3 +23,4 @@
 
 ### *참고
 - ##### 민은기 선생님의 수학자료실 : [https://min7014.github.io](https://min7014.github.io)
+- ##### edwith 수학자료실 강의실 수강신청 방법 : [https://goo.gl/TX9bxf](https://goo.gl/TX9bxf)
