@@ -20,3 +20,6 @@
 - ##### 주사위 상대도수 AlgeoMath : http://me2.do/GDeBBtcA
 - ##### 주사위의 상대도수 [알지오매스(AlgeoMath)] YouTube : https://goo.gl/pSzdXJ
 - ##### Sierpinski Triangle AlgeoMath : http://me2.do/FiNtPkDj
+
+### *참고
+- ##### 민은기 선생님의 수학자료실 : [https://min7014.github.io](https://min7014.github.io)
