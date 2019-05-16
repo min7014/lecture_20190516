@@ -6,6 +6,7 @@
 
 경남과학고등학교 교사 민은기
 
+강좌에 필요한 내용 및 주소를 알려드립니다.
 
 ### *AlgeoMath
 - ##### AlgeoMath 주소 : https://www.algeomath.kr
